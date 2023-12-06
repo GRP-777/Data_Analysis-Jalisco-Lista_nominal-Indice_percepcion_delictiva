@@ -9,16 +9,16 @@
 
 Assessing synthesis, clarity, and organization of ideas, as well as understanding of the Mexican political and security system and the formulation of evidence-based conclusions.
 
-The code and data files included in this repository enable replication of the analysis and serve as a resource for further exploration or refinement of the presented visualizations.
-
 
 
 ### Contents:
 
-Data Files: Includes the Jalisco voter registry data and perceived crime index.
-Scripts: Contains the Python code used for data extraction, analysis, and map visualization.
-Visualizations: Displays the generated maps showcasing the percentage of young voters and the top 5 municipalities.
-Feel free to explore, contribute, or utilize the provided resources for your own analysis purposes.
+- Data Files: Includes the Jalisco voter registry data and perceived crime index.
+- Scripts: Contains the Python code used for data extraction, analysis, and map visualization.
+- Visualizations: Displays the generated maps showcasing the percentage of young voters and the top 5 municipalities.
+- Feel free to explore, contribute, or utilize the provided resources for your own analysis purposes.
+
+The code and data files included in this repository enable replication of the analysis and serve as a resource for further exploration or refinement of the presented visualizations.
 
 
 
