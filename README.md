@@ -1,6 +1,7 @@
-# Data Analysis - Jalisco's voter registry and perceived crime index
+# Data Analysis - Jalisco's Voter Registry and Perceived Crime Index
 
-![Bandera-de-Jalisco](https://github.com/GRP-777/Data_Analysis-Jalisco-Lista_nominal-Indice_percepcion_delictiva/assets/132501854/fc4fca05-db4a-4aa0-8b55-87d8092fe601) ![Guadalajara, Jalisco](https://github.com/GRP-777/Data_Analysis-Jalisco-Lista_nominal-Indice_percepcion_delictiva/assets/132501854/adaf5509-ff3b-4306-8a2c-ddb495d9225b)
+
+![Bandera-Catedra-Jalisco](https://github.com/GRP-777/Data_Analysis-Jalisco-Lista_nominal-Indice_percepcion_delictiva/assets/132501854/8fffe571-d54a-4427-9221-b67f3c2ac462)
 
 
 
