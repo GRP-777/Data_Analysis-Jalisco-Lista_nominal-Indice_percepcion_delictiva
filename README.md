@@ -28,6 +28,7 @@ The voter registry analysis includes the extraction of the nominal voter list by
 
 The aim of this project is to provide a visual representation of the distribution of young voters across different municipalities in Jalisco, shedding light on the demographic composition of the voter registry.
 
+**Data provider**
 Access to the databases (data by age ranges, cutoff on November 9, 2023):
 https://www.ine.mx/transparencia/datos-abiertos/#/archivo/datos-por-rangos-de-edad-entidad-de-origen-y-sexo-del-padron-electoral-y-lista-nominal-2023
 
@@ -50,6 +51,14 @@ The map displays municipalities with the highest percentage of young individuals
 One of the constant topics in the media is the poor performance of the current administration in terms of security. This statement has been echoed by some to describe the security situation in Jalisco.
 
 Given this context, both the federal and Jalisco governments have focused on taking actions and primarily basing their results on two indicators: the perception of security and the crime incidence.
+
+**Data providers**
+
+Link where the files were obtained: https://www.inegi.org.mx/programas/ensu/#datos_abiertos
+
+As a reference for the perception of insecurity in each city, the column (BP1_1) titled 'Perception of security in the city on the website' was used, as listed in the data dictionary: https://www.inegi.org.mx/rnm/index.php/catalog/859/data-dictionary/F11?file_name=ENSU_CB_0923
+
+Link where the file on nationwide actual insecurity was obtained: https://www.gob.mx/sesnsp/acciones-y-programas/datos-abiertos-de-incidencia-delictiva?state=published, from where the following link was retrieved: https://drive.google.com/file/d/1PslWCPehm2_Z8au2HLeJzc3JCsqrSC7Q/view
 
 
 ### **Using the tabulations or microdata from the National Survey on Urban Public Security (ENSU):**
@@ -84,6 +93,19 @@ Depending on these indirect sources, the reputation or perception of security in
 Creating comprehensive campaigns that reflect the state's condition involves utilizing a wider array of media outlets and innovative methods of information dissemination. By informing in new ways, we can reach audiences who might not have well-formed opinions through traditional channels, thereby altering their perceptions.
 
 A specific proposal involves showcasing real-time data analysis through official media channels and locations. This allows people to witness how information is being modified. While there is undeniable insecurity in Jalisco, it's crucial to accurately reflect the actual situation. Therefore, it's important to mention serious incidents without sensationalizing them. This approach acknowledges the government's recognition of weaknesses without allowing incidents to become unrealistically amplified in the news.
+
+
+
+### Tech stack:
+- Python
+- Power BI
+- pandas
+- dbfread
+- os
+- matplotlib.pyplot
+- seaborn
+- import warnings
+
 
 
 ### Professional contact
