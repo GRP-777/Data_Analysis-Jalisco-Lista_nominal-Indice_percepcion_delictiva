@@ -52,16 +52,16 @@ One of the constant topics in the media is the poor performance of the current a
 Given this context, both the federal and Jalisco governments have focused on taking actions and primarily basing their results on two indicators: the perception of security and the crime incidence.
 
 
-Using the tabulations or microdata from the National Survey on Urban Public Security (ENSU):
-a. How has the perception of insecurity evolved nationally and in Jalisco since the first quarter of 2018? How do they compare?
+**Using the tabulations or microdata from the National Survey on Urban Public Security (ENSU):**
+**a. How has the perception of insecurity evolved nationally and in Jalisco since the first quarter of 2018? How do they compare?**
 
 ![image](https://github.com/GRP-777/Data_Analysis-Jalisco-Lista_nominal-Indice_percepcion_delictiva/assets/132501854/c09eedbd-82ec-4fef-b683-ccb2f0657f00)
 
 The perception of insecurity in the country has continued to rise. While Jalisco's perception decreased in the last years of the previous decade, it began to rise again from 2020 onwards. However, when comparing them, it's evident that Jalisco's perception of insecurity is lower and maintains a less pronounced upward trend. This indicates that the perception of insecurity in Jalisco is indeed increasing, albeit less sharply than at the national level.
 
 
-Using data on common crime incidence from the Executive Secretariat of the National Public Security System (SESNSP):
-a. How has the common crime incidence evolved since 2018 at the national level and in Jalisco?
+**Using data on common crime incidence from the Executive Secretariat of the National Public Security System (SESNSP):**
+**a. How has the common crime incidence evolved since 2018 at the national level and in Jalisco?**
 
 ![image](https://github.com/GRP-777/Data_Analysis-Jalisco-Lista_nominal-Indice_percepcion_delictiva/assets/132501854/b8dfe13d-9bd4-4f50-b1bf-836a70e622f5)
 
@@ -72,14 +72,14 @@ For Jalisco, it was also on the rise until 2018, where it started to moderately 
 
 
 Considering the obtained results:
-a. Would you say there's a relationship between perception and crime incidence? What causal mechanism better explains the relationship or lack thereof between these variables?
+**a. Would you say there's a relationship between perception and crime incidence? What causal mechanism better explains the relationship or lack thereof between these variables?**
 
 There is indeed a relationship between perception and incidence because people form opinions based on what they see, but they are also influenced by what they hear or are informed about by third parties. While their opinions are grounded in firsthand experiences, they also have a real or imagined construction from indirect sources.
 
 Depending on these indirect sources, the reputation or perception of security in the state can be altered for better or for worse. That's why it's important to be mindful of how we communicate with people, ensuring they are well-informed.
 
 
-b. What recommendation would you give to the Government of Jalisco to improve the perception of insecurity in the state?
+**b. What recommendation would you give to the Government of Jalisco to improve the perception of insecurity in the state?**
 
 Creating comprehensive campaigns that reflect the state's condition involves utilizing a wider array of media outlets and innovative methods of information dissemination. By informing in new ways, we can reach audiences who might not have well-formed opinions through traditional channels, thereby altering their perceptions.
 
