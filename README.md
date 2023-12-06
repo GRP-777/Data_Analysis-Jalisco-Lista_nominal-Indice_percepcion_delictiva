@@ -39,7 +39,7 @@ Also, as a support, a table with the numeric and string data:
 
 ![image](https://github.com/GRP-777/Data_Analysis-Jalisco-Lista_nominal-Indice_percepcion_delictiva/assets/132501854/ff013d00-fa7f-48cb-a50b-1c8e8f9759ed)
 
-**Conclusions:**
+**Explanation:**
 
 The map displays municipalities with the highest percentage of young individuals registered in the voter registry. They are indicated in blue, with larger bubbles representing higher percentages. As the percentage decreases, the color changes to yellow or red, accompanied by smaller bubble sizes. Additionally, below the map, there's a list indicating the count of registered young individuals, the total count of youth, and the overall registered population regardless of age. The age reference was set up to 29 years old due to the mixing of individuals aged 30 with those aged 35 in the age groups 25-29 and 30-35.
 
