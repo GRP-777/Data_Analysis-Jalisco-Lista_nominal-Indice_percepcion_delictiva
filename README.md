@@ -22,7 +22,7 @@ Feel free to explore, contribute, or utilize the provided resources for your own
 
 
 
-### Voters Registry
+## Voters Registry
 
 The voter registry analysis includes the extraction of the nominal voter list by municipality in Jalisco, followed by the creation of a map displaying the percentage of young voters aged between 18 and 30 years old in relation to the total voter registry for each municipality. Additionally, the top 5 municipalities with the highest percentage of young voters are highlighted on the map for easy identification.
 
@@ -45,7 +45,7 @@ The map displays municipalities with the highest percentage of young individuals
 
 
 
-### Perceived crime index
+## Perceived crime index
 
 One of the constant topics in the media is the poor performance of the current administration in terms of security. This statement has been echoed by some to describe the security situation in Jalisco.
 
