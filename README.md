@@ -85,3 +85,8 @@ Creating comprehensive campaigns that reflect the state's condition involves uti
 
 A specific proposal involves showcasing real-time data analysis through official media channels and locations. This allows people to witness how information is being modified. While there is undeniable insecurity in Jalisco, it's crucial to accurately reflect the actual situation. Therefore, it's important to mention serious incidents without sensationalizing them. This approach acknowledges the government's recognition of weaknesses without allowing incidents to become unrealistically amplified in the news.
 
+
+### Professional contact
+
+LinkedIn [https://www.linkedin.com/in/german-robles-perez/]
+Email: grbolesperez0@gmail.com
