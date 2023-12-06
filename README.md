@@ -98,12 +98,12 @@ A specific proposal involves showcasing real-time data analysis through official
 ### Tech stack:
 - Python
 - Power BI
-- pandas
-- dbfread
-- os
-- matplotlib.pyplot
-- seaborn
-- import warnings
+- Pandas
+- Dbfread
+- Os
+- Matplotlib
+- Seaborn
+- Warnings
 
 
 
