@@ -88,5 +88,5 @@ A specific proposal involves showcasing real-time data analysis through official
 
 ### Professional contact
 
-LinkedIn [https://www.linkedin.com/in/german-robles-perez/]
+LinkedIn(https://www.linkedin.com/in/german-robles-perez/)
 Email: grbolesperez0@gmail.com
