@@ -1,5 +1,4 @@
-Link where the file on nationwide insecurity was obtained: https://www.gob.mx/sesnsp/acciones-y-programas/datos-abiertos-de-incidencia-delictiva?state=published, from where the following link was retrieved: https://drive.google.com/file/d/1PslWCPehm2_Z8au2HLeJzc3JCsqrSC7Q/view# Data Analysis - Jalisco's Voter Registry and Perceived Crime Index
-
+# Data Analysis - Jalisco's Voter Registry and Perceived Crime Index
 
 ![Bandera-Catedra-Jalisco](https://github.com/GRP-777/Data_Analysis-Jalisco-Lista_nominal-Indice_percepcion_delictiva/assets/132501854/8fffe571-d54a-4427-9221-b67f3c2ac462)
 
